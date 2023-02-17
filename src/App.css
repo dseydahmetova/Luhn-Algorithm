@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(92, 165, 192);
+}
+
+.App {
+  text-align: center;
+  padding: 50px;
+
+}
+
+.examples {
+  font-style: italic;
+  font-size: 14px;
+  color: rgb(62, 40, 82);
+}
+
+input {
+  border: 1px navy;
+  border-radius: 5%;
+  height: 30px;
+  width: 250px;
+}
